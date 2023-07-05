@@ -1,6 +1,6 @@
 name = "argtable_jll"
 uuid = "166911fe-1485-5b25-83ac-750489179000"
-version = "3.2.2+0"
+version = "2.13.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
