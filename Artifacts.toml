@@ -1,0 +1,252 @@
+[[argtable]]
+arch = "aarch64"
+git-tree-sha1 = "839e720228770a0756046606d308c1199f16a0d6"
+os = "macos"
+
+    [[argtable.download]]
+    sha256 = "912c5c47ba7ac81bfabd5cc62f2ae192500a20b8463c8aa0819106f396be06f4"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.aarch64-apple-darwin.tar.gz"
+[[argtable]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ec30c33c97574fda0a4c9fbf66ab3c96e0124032"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "d83986bb31aea7bf5022b9ed42ae9d0d228afc8b07f9ef75f5ba4d48c2fe3d30"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.aarch64-linux-gnu-cxx03.tar.gz"
+[[argtable]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ec30c33c97574fda0a4c9fbf66ab3c96e0124032"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "d83986bb31aea7bf5022b9ed42ae9d0d228afc8b07f9ef75f5ba4d48c2fe3d30"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.aarch64-linux-gnu-cxx11.tar.gz"
+[[argtable]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2f6ffbccad144bd4155a70b62020a1077935f05a"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "bfa8935194fca74c31a6501673439b8cc368fe688174a7ef2d8fb412afd76db3"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.aarch64-linux-musl-cxx03.tar.gz"
+[[argtable]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f6ffbccad144bd4155a70b62020a1077935f05a"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "bfa8935194fca74c31a6501673439b8cc368fe688174a7ef2d8fb412afd76db3"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.aarch64-linux-musl-cxx11.tar.gz"
+[[argtable]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e019c5d6a744d5bfb852aff9ddf6f71f43188d29"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "26a674544cbc498f07972e7f8edc2e4d7e9611389039b1030829270be36cbe8c"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[argtable]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e019c5d6a744d5bfb852aff9ddf6f71f43188d29"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "26a674544cbc498f07972e7f8edc2e4d7e9611389039b1030829270be36cbe8c"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[argtable]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a5db0c913d3539129ea86d4cba719d016c33f405"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "a069f955f92e613693f69d999911e5ca6c0bbecf21df476647b9afbf164d854b"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[argtable]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a5db0c913d3539129ea86d4cba719d016c33f405"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "a069f955f92e613693f69d999911e5ca6c0bbecf21df476647b9afbf164d854b"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[argtable]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e555de77dcc80e3c5d7f01bbc37d1442e33b2b3f"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "3737572ec143fccc4c8178aba881ba1eb9d6eb8bbc0bcde362f83424b2a9ea61"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[argtable]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e555de77dcc80e3c5d7f01bbc37d1442e33b2b3f"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "3737572ec143fccc4c8178aba881ba1eb9d6eb8bbc0bcde362f83424b2a9ea61"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[argtable]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "56458b5e61ecac8414c6a24899bbb28038db85e3"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "9471d999b6416310903d0e8b05b446f48fb247c64b5a6421c689b9924d2910b9"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[argtable]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "56458b5e61ecac8414c6a24899bbb28038db85e3"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "9471d999b6416310903d0e8b05b446f48fb247c64b5a6421c689b9924d2910b9"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[argtable]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f2f741978d9ae4c6c4dd4b3e10ba663571e9cccc"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "618c0f805aaf12e489cc4a12a693f481c33615850d1731cd0cd4dc1d27620052"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.i686-linux-gnu-cxx03.tar.gz"
+[[argtable]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f2f741978d9ae4c6c4dd4b3e10ba663571e9cccc"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "618c0f805aaf12e489cc4a12a693f481c33615850d1731cd0cd4dc1d27620052"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.i686-linux-gnu-cxx11.tar.gz"
+[[argtable]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a39b7c663bedf19a713aa3404f0888b5965f7552"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "174c1b913097dd25b45803e4bc0f8a32e9201d50808574bb6a7db969d2c92a56"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.i686-linux-musl-cxx03.tar.gz"
+[[argtable]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a39b7c663bedf19a713aa3404f0888b5965f7552"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "174c1b913097dd25b45803e4bc0f8a32e9201d50808574bb6a7db969d2c92a56"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.i686-linux-musl-cxx11.tar.gz"
+[[argtable]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "39891dc34a98d1d35f1e93017d2fdc2cd82a5e46"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "4429034ac101bb588db21a063b98b8595874120c2f87ceed9e4624eba8d51656"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[argtable]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "39891dc34a98d1d35f1e93017d2fdc2cd82a5e46"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "4429034ac101bb588db21a063b98b8595874120c2f87ceed9e4624eba8d51656"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[argtable]]
+arch = "x86_64"
+git-tree-sha1 = "f7440e1d3ab6f2e49ba541b2158873cb005b37f0"
+os = "macos"
+
+    [[argtable.download]]
+    sha256 = "26ae2024c9b190ffe3bed2bf41c798bfc7949966e00efe1513c8b5cececf10a3"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.x86_64-apple-darwin.tar.gz"
+[[argtable]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "406e8b6b2ef0163d8e161bfcccecd6205e1b646b"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "f7828704a78ce67dcacf12be32138ae24edb392b31652277b06b856efcf5cb47"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.x86_64-linux-gnu-cxx03.tar.gz"
+[[argtable]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "406e8b6b2ef0163d8e161bfcccecd6205e1b646b"
+libc = "glibc"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "f7828704a78ce67dcacf12be32138ae24edb392b31652277b06b856efcf5cb47"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.x86_64-linux-gnu-cxx11.tar.gz"
+[[argtable]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9c53ef617b68c5776e3ce9ee37366f6be6c6381a"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "a4815fe5c71a9707e328ba791fdeb1ecc9d9e9a62a8ace2b0fe0a01168d909dc"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.x86_64-linux-musl-cxx03.tar.gz"
+[[argtable]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "9c53ef617b68c5776e3ce9ee37366f6be6c6381a"
+libc = "musl"
+os = "linux"
+
+    [[argtable.download]]
+    sha256 = "a4815fe5c71a9707e328ba791fdeb1ecc9d9e9a62a8ace2b0fe0a01168d909dc"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.x86_64-linux-musl-cxx11.tar.gz"
+[[argtable]]
+arch = "x86_64"
+git-tree-sha1 = "0bf7d36e7fa163ac1c3dd6ccbf65e19ded8ac3d2"
+os = "freebsd"
+
+    [[argtable.download]]
+    sha256 = "a1c4c525f75e703aa8a961c1baac8ecec73ee4d0272b693acf6a62bf5a58d822"
+    url = "https://github.com/JuliaBinaryWrappers/argtable_jll.jl/releases/download/argtable-v3.2.2+0/argtable.v3.2.2.x86_64-unknown-freebsd.tar.gz"
